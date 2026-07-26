@@ -100,10 +100,14 @@ You need to open a Terminal (in Windows — "Command Prompt" or "PowerShell", in
    ```bash
    # Windows
    cd %USERPROFILE%\Desktop\OpelLogs
+   ```
 
+   ```bash
    # macOS
    cd ~/Desktop/OpelLogs
+   ```
 
+   ```bash
    # Linux
    cd ~/Desktop/OpelLogs
    ```
@@ -111,7 +115,9 @@ You need to open a Terminal (in Windows — "Command Prompt" or "PowerShell", in
    ```bash
    # Windows
    python smo_decode_plus.py
+   ```
 
+   ```bash
    # macOS / Linux
    python3 smo_decode_plus.py
    ```
@@ -123,7 +129,9 @@ You need to open a Terminal (in Windows — "Command Prompt" or "PowerShell", in
    ```bash
    # Windows
    python smo_decode_plus.py my_log.smo
+   ```
 
+   ```bash
    # macOS / Linux
    python3 smo_decode_plus.py my_log.smo
    ```
