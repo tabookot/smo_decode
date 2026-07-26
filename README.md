@@ -99,18 +99,24 @@ sudo dnf install python3
    ```bash
    # Windows
    cd %USERPROFILE%\Desktop\OpelLogs
+   ```
 
+   ```bash
    # macOS
    cd ~/Desktop/OpelLogs
+   ```
 
+   ```bash
    # Linux
-   cd ~/Рабочий\ стол/OpelLogs
+   cd ~/Desktop/OpelLogs
    ```
 2. Запустите скрипт:
    ```bash
    # Windows
    python smo_decode_plus.py
+   ```
 
+   ```bash
    # macOS / Linux
    python3 smo_decode_plus.py
    ```
@@ -122,7 +128,9 @@ sudo dnf install python3
    ```bash
    # Windows
    python smo_decode_plus.py my_log.smo
+   ```
 
+   ```bash
    # macOS / Linux
    python3 smo_decode_plus.py my_log.smo
    ```
