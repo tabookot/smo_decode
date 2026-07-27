@@ -1,4 +1,4 @@
-[🇷🇺 Русский](README.md) | [🇬🇧 English](README.en.md)
+[🇬🇧 English](README.en.md) | [🇷🇺 Русский](README.md)
 
 # ScanMyOpel Log Decoder
 
