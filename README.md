@@ -1,7 +1,8 @@
-[🇷🇺 Русский](README.md) | [🇬🇧 English](README.en.md)
-# Декодер логов [ScanMyOpel](https://scanmyopel.com)
+[🇬🇧 English](README.en.md) | [🇷🇺 Русский](README.md)
 
-> **Совместимо с "ScanMyOpel 1.1.36"**. Если не работает — все претензии к электроовцам! 😉
+# Декодер логов ScanMyOpel
+
+> **Совместимо с [ScanMyOpel](https://scanmyopel.com) 1.1.36**.Если не работает — все претензии к электроовцам! 😉
 > *Авторский коллектив — GPT 5.5, GLM 5.2 и Kimi K3.*
 
 Для работы скриптов требуется установленный **Python 3.6** или выше.
